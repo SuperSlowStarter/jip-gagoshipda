@@ -1,3 +1,3 @@
 # Jip Gago Shipda
 
-## Personal Chuegeun Manager
+## Personal Chulgeun Manager
